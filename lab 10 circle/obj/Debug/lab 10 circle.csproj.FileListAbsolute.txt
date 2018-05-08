@@ -1,0 +1,7 @@
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\bin\Debug\lab 10 circle.exe.config
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\bin\Debug\lab 10 circle.exe
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\bin\Debug\lab 10 circle.pdb
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\obj\Debug\lab 10 circle.csproj.CoreCompileInputs.cache
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\obj\Debug\lab 10 circle.exe
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\obj\Debug\lab 10 circle.pdb
+C:\Users\Mssar\source\repos\lab 10 circle\lab 10 circle\obj\Debug\lab 10 circle.csprojResolveAssemblyReference.cache
